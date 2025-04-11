@@ -57,8 +57,14 @@ cd AI-project
 ```
 
 ### **Step 2: Install Dependencies**  
+
 ```bash
-pip install -r requirements.txt
+pip install keras
+pip install opencv-python  # This is what "computer vision" refers to
+pip install imutils
+pip install matplotlib
+pip install numpy
+pip install scikit-learn   # sklearn is installed as scikit-learn
 ```
 
 ### **Step 3: Train the Model (If Needed)**  
