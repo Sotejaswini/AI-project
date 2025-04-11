@@ -106,34 +106,8 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 
 ---
 
-## 👨‍💻 Contributors  
-👤 **Tejaswini Chidurala** ([GitHub Profile](https://github.com/Sotejaswini))  
-📧 tejaswinich17@example.com  
+## 💻 Terminal Output Example
+![Terminal Output](screenshots/output1.png)
 
-🙌 Contributions are welcome! Feel free to fork and submit a pull request.  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## ⭐ Support  
-If you found this project helpful, please ⭐ **star the repository** and share it! 😊  
-
-```
-
----
-
-### **Why This is the Best README?**  
-✅ **Well-structured & Professional** 🏆  
-✅ **Easy to Follow for Any User** 📌  
-✅ **Includes Features, Installation, Usage, and Contribution Guide** 🔥  
-✅ **Formatted for Readability with Code Blocks and Sections** 🎯  
-
----
-
-Now, your `README.md` is **detailed, professional, and easy to follow**! 🚀 Let me know if you need any changes. 😃
-
-
+## 🧠 Model Prediction Screenshot
+![Model Output](screenshots/output2.png)
