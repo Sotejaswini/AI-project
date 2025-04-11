@@ -107,7 +107,7 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 ---
 
 ## 💻 Terminal Output Example
-![Terminal Output](screenshots/output1.png)
+![Terminal Output](Main Model and supporting files/screenshots/output1.png)
 
 ## 🧠 Model Prediction Screenshot
-![Model Output](screenshots/output2.png)
+![Model Output](Main Model and supporting files/screenshots/output2.png)
