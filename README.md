@@ -79,7 +79,8 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 ## 🏆 Results  
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_3.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_4.png?raw=true)
-- The trained model achieves **high accuracy(99.16%)** in recognizing Sudoku digits.  
+![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/Accuracy.png?raw=true)
+- The trained model achieves **high accuracy** in recognizing Sudoku digits.  
 - The Sudoku solver can process **real-world images** and provide correct solutions.  
 - **Performance Metrics** are available in the **`stats_calculation`** folder.  
 
