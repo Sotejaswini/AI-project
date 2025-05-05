@@ -1,5 +1,5 @@
 # AI-project
-# 🧠 AI Sudoku Solver Using OCR 🎯  
+# AI Sudoku Solver Using OCR
 
 ## 📖 Overview  
 This project is an **AI-powered Sudoku Solver** that leverages **Optical Character Recognition (OCR)** and **Deep Learning** to automatically detect, extract, and solve Sudoku puzzles from images. It uses **computer vision** to preprocess images, a **CNN-based model** to recognize digits, and a **backtracking algorithm** to solve the Sudoku grid.  
