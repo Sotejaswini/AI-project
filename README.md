@@ -108,3 +108,7 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 
 ### 🖥️ Terminal Output Example
 ![Model Output](Main Model and supporting files/screenshots/output_2.png)
+## 🧠 Model Prediction Screenshot
+
+![Model Output](Main Model and supporting files/screenshots/output_2.png)
+![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/Main Model and supporting files/screenshots/output_2.png?raw=true)
