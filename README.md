@@ -108,3 +108,5 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 
 ### 🖥️ Terminal Output Example
 ![Model Output](Main%20Model%20and%20supporting%20files/screenshots/output_2.png)
+![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_2.png?raw=true)
+
