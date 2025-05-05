@@ -23,29 +23,6 @@ This project is an **AI-powered Sudoku Solver** that leverages **Optical Charact
 - **Matplotlib** (for visualization)  
 - **Scikit-Learn** (for machine learning utilities)  
 - **Imutils** (for image transformations)  
-
----
-#Projec Structure
-📂 AI-Sudoku-Solver  
-├── 📂 model/               # Model training and pre-trained models  
-│   ├── train_model.py      # Script to train the digit recognition model  
-│   ├── model.h5            # Trained Keras model for digit recognition  
-│   ├── pretrained_models/  # Folder with pre-used models  
-│   └── ...  
-│  
-├── 📂 algorithm/            # Contains different Sudoku-solving algorithms  
-│   ├── backtracking.py      # Backtracking-based solver  
-│   ├── constraint_solver.py # Constraint propagation solver  
-│   ├── ...  
-│  
-├── 📂 stats_calculation/     # Additional files for testing model performance  
-│  
-├── main.py                 # Main script to process and solve Sudoku  
-├── requirements.txt        # List of dependencies  
-├── README.md               # Project documentation  
-└── howtouse.txt            # Additional testing instructions  
-```
-
 ---
 
 ## 🔧 Installation & Setup  
@@ -102,7 +79,7 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 ## 🏆 Results  
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_3.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_4.png?raw=true)
-- The trained model achieves **high accuracy** in recognizing Sudoku digits.  
+- The trained model achieves **high accuracy(99.16%)** in recognizing Sudoku digits.  
 - The Sudoku solver can process **real-world images** and provide correct solutions.  
 - **Performance Metrics** are available in the **`stats_calculation`** folder.  
 
