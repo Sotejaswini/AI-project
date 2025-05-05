@@ -7,11 +7,11 @@ This project is an **AI-powered Sudoku Solver** that leverages **Optical Charact
 ---
 
 ## 🚀 Features  
-✅ **Digit Recognition:** Uses a trained deep learning model to recognize numbers in the Sudoku grid.  
-✅ **Image Processing:** Uses OpenCV to extract and preprocess Sudoku grids from images.  
-✅ **Sudoku Solving Algorithms:** Implements optimized backtracking and constraint propagation algorithms.  
-✅ **Pre-trained Models:** Includes pre-trained models for easy deployment.  
-✅ **Supports Custom Input Images:** Can solve Sudoku puzzles from scanned or captured images.  
+-   **Digit Recognition:** Uses a trained deep learning model to recognize numbers in the Sudoku grid.  
+-   **Image Processing:** Uses OpenCV to extract and preprocess Sudoku grids from images.  
+-   **Sudoku Solving Algorithms:** Implements optimized backtracking and constraint propagation algorithms.  
+-   **Pre-trained Models:** Includes pre-trained models for easy deployment.  
+-   **Supports Custom Input Images:** Can solve Sudoku puzzles from scanned or captured images.  
 
 ---
 
