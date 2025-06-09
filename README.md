@@ -1,12 +1,11 @@
-# AI-project
 # AI Sudoku Solver Using OCR
 
-## 📖 Overview  
+## Overview  
 This project is an **AI-powered Sudoku Solver** that leverages **Optical Character Recognition (OCR)** and **Deep Learning** to automatically detect, extract, and solve Sudoku puzzles from images. It uses **computer vision** to preprocess images, a **CNN-based model** to recognize digits, and a **backtracking algorithm** to solve the Sudoku grid.  
 
 ---
 
-## 🚀 Features  
+## Features  
 -   **Digit Recognition:** Uses a trained deep learning model to recognize numbers in the Sudoku grid.  
 -   **Image Processing:** Uses OpenCV to extract and preprocess Sudoku grids from images.  
 -   **Sudoku Solving Algorithms:** Implements optimized backtracking and constraint propagation algorithms.  
@@ -15,7 +14,7 @@ This project is an **AI-powered Sudoku Solver** that leverages **Optical Charact
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Python 3.x**  
 - **Keras** (for deep learning model)  
 - **OpenCV** (for image processing)  
@@ -25,7 +24,7 @@ This project is an **AI-powered Sudoku Solver** that leverages **Optical Charact
 - **Imutils** (for image transformations)  
 ---
 
-## 🔧 Installation & Setup  
+##  Installation & Setup  
 
 ### **Step 1: Clone the Repository**  
 ```bash
@@ -54,7 +53,7 @@ python model/train_model.py
 
 ---
 
-## 🎮 How to Run  
+## How to Run  
 
 ### **Solve a Sudoku Puzzle from an Image**  
 Run the following command:  
@@ -70,13 +69,13 @@ python main.py ./input/sudoku.jpg ./model/model.h5
 
 ---
 
-## 📊 Testing & Evaluation  
+## Testing & Evaluation  
 The `stats_calculation` folder contains additional scripts for performance testing.  
 Refer to **`howtouse.txt`** for details on how to use these scripts.  
 
 ---
 
-## 🏆 Results  
+## Results  
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_3.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_4.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/Accuracy.png?raw=true)
@@ -86,7 +85,7 @@ Refer to **`howtouse.txt`** for details on how to use these scripts.
 
 ---
 
-### 🖥️ Final Outputs
+### Final Outputs
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_1.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_2.png?raw=true)
 ![Screenshot](https://github.com/Sotejaswini/AI-project/blob/main/AI-SUDOKU-SOLVER-USING-OCR-main/Main%20Model%20and%20supporting%20files/screenshots/output_5.png?raw=true)
